@@ -1,0 +1,14 @@
+call plug#begin('~/.vim/plugged')
+
+	Plug 'altercation/vim-colors-solarized'
+
+	Plug 'EdenEast/nightfox.nvim'
+
+	Plug 'navarasu/onedark.nvim'
+
+	Plug 'preservim/nerdtree'
+
+call plug#end()
+
+" colorscheme nightfox
+
